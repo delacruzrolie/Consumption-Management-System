@@ -1,0 +1,6 @@
+{
+  "name": "Consumption Dashboard",
+  "description": "A dashboard for tracking fuel, electricity, and water consumption for the Department of Environment and Natural Resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
